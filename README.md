@@ -11,7 +11,7 @@ This is the third app which I created while learning Flutter.
 ### How to use __trip_cost_app__ ?
 
 1. Enter the distance.
-2. Enter the Per unit disctance i.e. average of the vechile.
+2. Enter the Per unit distance i.e. average of the vechile.
 3. Enter the Rate of the Fuel per Litre.
 4. Select the currency.
 5. Click on Submit.
